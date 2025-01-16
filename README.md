@@ -12,7 +12,7 @@ Some philosophical prompt words will be provided, but make sure not to be separa
 毛泽东在中国发扬了唯物辩证法。
 
 # 已发布的Prompt
-## ：唯物辩证法导师 0.5V
+## 唯物辩证法导师 0.5V
 该prompt通过对资料的学习，已初步具备唯物辩证法的思维。擅于找出问题的主要矛盾后快速突破并提供解决方案，擅长抓住问题的主要矛盾和特殊性。
-## 唯物辩证法导师0.6v
+## 唯物辩证法导师 0.6v
 在原有的基础上，增加了对问题的阶段性的分析
