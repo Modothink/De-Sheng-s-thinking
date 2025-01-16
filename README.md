@@ -1,4 +1,4 @@
-# De-Sheng-thinking
+# DeSheng-thinking
 Hope you could find something helpful here :)
 # 这里，是一位辩证唯物主义者的仓库，他设计、改造、实践、反馈、设计、改造、再实践...  Here lies the workshop of a dialectical materialist. He designs, transforms, practices, gets feedback, designs, transforms, and practices again... 
 
